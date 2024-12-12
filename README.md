@@ -17,9 +17,9 @@ This repository contains the backend code for a bikeshare system that focuses on
 │   ├── fetch_coordinates.py
 │   ├── station_coordinates_cache.json
 │   └── unique_station_names.txt
-├── bikeshare
-│   ├── bike_counts.py
-│   └── rebalance_log.txt
+│
+│── bike_counts.py
+│── rebalance_log.txt
 ```
 
 ### `get_clusters` Directory
